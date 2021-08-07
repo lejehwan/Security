@@ -1,6 +1,6 @@
 # Security
 
-day01- init
+day01- init/setting
 
 day02- basic Login
 

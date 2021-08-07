@@ -31,14 +31,14 @@ spring:
       client:
         registration:
           google:
-            client-id: 507119184618-fgap65bp6p579so9hhjtvqd01o2jcbik.apps.googleusercontent.com
-            client-secret: 95HioKSFeCxoulTdpHI5BCCI
+            client-id: input
+            client-secret: input
             scope:
               - email
               - profile
           facebook:
-            client-id: 1172207466624493
-            client-secret: 47200f088d41efc578caaab9c08a9e1b
+            client-id: input
+            client-secret: input
             scope:
               - email
               - public_profile
